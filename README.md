@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Murtaza34&repo=My-Bootstrap-Portfolio)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <p align="center">
 <a href="https://github.com/Murtaza34/My-Bootstrap-Portfolio">
 <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Murtaza34&repo=My-Bootstrap-Portfolio&border_color=a6cf4d&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
@@ -24,3 +26,4 @@ Here are some ideas to get you started:
 <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Murtaza34&repo=README-Generator&border_color=a6cf4d&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
+ -->
