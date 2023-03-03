@@ -35,7 +35,7 @@
 <br />
 
 <p align="left">
-  <img alt="Language & Tools" width="200px" src="https://github.com/Murtaza34/some-stuff/blob/main/lang%26tools.png" />
+  <img alt="Language & Tools" width="240px" src="https://github.com/Murtaza34/some-stuff/blob/main/lang%26tools.png" />
 </p>
 
  <p align="center">
