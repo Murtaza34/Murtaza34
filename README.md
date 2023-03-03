@@ -13,7 +13,6 @@
   <img alt="Pinned" width="100px" src="https://github.com/Murtaza34/some-stuff/blob/main/pinned.png" />
 </p>
 
-<br />
 
 <p align="center">
 <a href="https://github.com/Murtaza34/My-Bootstrap-Portfolio">
