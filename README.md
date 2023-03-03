@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Murtaza34&repo=My-Bootstrap-Portfolio&border_color=a6cf4d&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892)](https://github.com/Murtaza34/My-Bootstrap-Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Murtaza34&repo=My-Bootstrap-Portfolio&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/Murtaza34/My-Bootstrap-Portfolio)
 
 <!-- <p align="center">
 <a href="https://github.com/Murtaza34/My-Bootstrap-Portfolio">
@@ -27,3 +27,8 @@ Here are some ideas to get you started:
 </a>
 </p>
  -->
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+</p>
