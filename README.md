@@ -2,9 +2,9 @@
 
 <!-- Socials -->
 <p align="center">
-  <a href="https://twitter.com/Murt300" target="_blank"><img alt="Twitter-Icon" width="50px" src="https://github.com/Murtaza34/some-stuff/blob/main/twitter-01.png" /></a>
-  <a href="https://www.linkedin.com/in/murtaza-mohebi-b71aba191/" target="_blank"><img alt="Linkedin-Icon" width="50px" src="https://github.com/Murtaza34/some-stuff/blob/main/linkedin-01.png" /></a>
-  <a href="https://github.com/Murtaza34" target="_blank"><img alt="Github-Icon" width="50px" src="https://github.com/Murtaza34/some-stuff/blob/main/github-01.png" /></a>
+  <a href="https://twitter.com/Murt300" target="_blank"><img alt="Twitter-Icon" width="40px" src="https://github.com/Murtaza34/some-stuff/blob/main/twitter-01.png" /></a>
+  <a href="https://www.linkedin.com/in/murtaza-mohebi-b71aba191/" target="_blank"><img alt="Linkedin-Icon" width="40px" src="https://github.com/Murtaza34/some-stuff/blob/main/linkedin-01.png" /></a>
+  <a href="https://github.com/Murtaza34" target="_blank"><img alt="Github-Icon" width="40px" src="https://github.com/Murtaza34/some-stuff/blob/main/github-01.png" /></a>
  </p>
  
  <br />
