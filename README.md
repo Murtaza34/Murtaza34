@@ -32,6 +32,11 @@
 </a>
 </p>
 
+<br />
+
+<p align="left">
+  <img alt="Language & Tools" width="150px" src="https://github.com/Murtaza34/some-stuff/blob/main/lang%26tools.png" />
+</p>
 
  <p align="center">
   <a href="https://skillicons.dev">
