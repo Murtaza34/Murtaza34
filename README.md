@@ -7,15 +7,13 @@
   <a href="https://github.com/Murtaza34" target="_blank"><img alt="Github-Icon" width="40px" src="https://github.com/Murtaza34/some-stuff/blob/main/github-01.png" /></a>
  </p>
  
- <br />
+<br />
 
-<!-- <a href="https://aakarsh.me" target="_blank"><img align="center" alt="aakarsh.me" width="22px" src="https://github.com/Murtaza34/some-stuff/blob/main/twitter-01.png" /></a> -->
+<p align="left">
+  <img alt="Pinned" width="30px" src="https://github.com/Murtaza34/some-stuff/blob/main/pinned.png" />
+</p>
 
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Murtaza34&repo=My-Bootstrap-Portfolio&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=f5c344)](https://github.com/Murtaza34/My-Bootstrap-Portfolio)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Murtaza34&repo=README-Generator&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=f5c344)](https://github.com/Murtaza34/README-Generator) -->
-
+<br />
 
 <p align="center">
 <a href="https://github.com/Murtaza34/My-Bootstrap-Portfolio">
@@ -35,6 +33,7 @@
 <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Murtaza34&repo=Work-Day-Planner&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=f5c344" />
 </a>
 </p>
+
 
  <p align="center">
   <a href="https://skillicons.dev">
