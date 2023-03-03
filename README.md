@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Murtaza34&repo=README-Generator&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=f5c344)](https://github.com/Murtaza34/README-Generator)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Murtaza34&repo=README-Generator&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=f5c344)](https://github.com/Murtaza34/README-Generator)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Murtaza34&repo=README-Generator&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=f5c344)](https://github.com/Murtaza34/README-Generator)
+
 <!-- <p align="center">
 <a href="https://github.com/Murtaza34/My-Bootstrap-Portfolio">
 <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Murtaza34&repo=My-Bootstrap-Portfolio&border_color=a6cf4d&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
