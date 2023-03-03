@@ -1,4 +1,4 @@
-<img src="https://github.com/Murtaza34/Murtaza34/blob/main/github%20profile%20cover2-01.png">
+<img src="https://github.com/Murtaza34/some-stuff/blob/main/github%20profile%20cover.png">
 
 <!-- Socials -->
 <p align="center">
