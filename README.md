@@ -9,10 +9,11 @@
  
 <br />
 
-<p align="left">
+<!-- <p align="left">
   <img alt="Pinned" width="100px" src="https://github.com/Murtaza34/some-stuff/blob/main/pinned.png" />
-</p>
+</p> -->
 
+### Pinned
 
 <p align="center">
 <a href="https://github.com/Murtaza34/My-Bootstrap-Portfolio">
