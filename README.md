@@ -6,6 +6,8 @@
   <a href="https://www.linkedin.com/in/murtaza-mohebi-b71aba191/" target="_blank"><img alt="Linkedin-Icon" width="50px" src="https://github.com/Murtaza34/some-stuff/blob/main/linkedin-01.png" /></a>
   <a href="https://github.com/Murtaza34" target="_blank"><img alt="Github-Icon" width="50px" src="https://github.com/Murtaza34/some-stuff/blob/main/github-01.png" /></a>
  </p>
+ 
+ <br />
 
 <!-- <a href="https://aakarsh.me" target="_blank"><img align="center" alt="aakarsh.me" width="22px" src="https://github.com/Murtaza34/some-stuff/blob/main/twitter-01.png" /></a> -->
 
