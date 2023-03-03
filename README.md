@@ -1,4 +1,4 @@
-<img src="https://github.com/Murtaza34/Murtaza34/blob/main/github%20profile%20cover-01.png">
+<img src="https://github.com/Murtaza34/Murtaza34/blob/main/github%20profile%20cover2-01.png">
 
 <!-- ### Hi there 👋 -->
 
