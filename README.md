@@ -8,7 +8,7 @@
  </p>
  
 <br />
-
+<!--
 <p align="left">
   <img alt="Pinned" width="150px" src="https://github.com/Murtaza34/some-stuff/blob/main/pin.png" />
 </p>
@@ -31,7 +31,7 @@
 <img align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Murtaza34&repo=Work-Day-Planner&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=f5c344" />
 </a>
 </p>
-
+-->
 <br />
 
 <p align="left">
